@@ -8,6 +8,7 @@
 <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankityadavhere&count_private=true&theme=material-palenight&layout=compact&hide_border=true" />
 </a>
 
+<br>
 <a href="https://ankityadavhere.github.io">
   <img alt="Ankit's GitHub stats" align="center" src="https://github-readme-stats.vercel.app/api?username=ankityadavhere&count_private=true&show_icons=true&theme=material-palenight&hide_border=true" />
 </a>
