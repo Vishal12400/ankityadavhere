@@ -3,7 +3,7 @@
 <a href="https://ankityadavhere.github.io">
   <img alt="GitHub Streak" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ankityadavhere&theme=material-palenight&hide_border=true" />
 </a>
-<br>
+
 <a href="https://ankityadavhere.github.io">
 <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankityadavhere&count_private=true&theme=material-palenight&layout=compact&hide_border=true" />
 </a>
