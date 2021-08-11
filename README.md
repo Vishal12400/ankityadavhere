@@ -1,4 +1,4 @@
-# Hello <img src="./assets/hi.gif" width="29px">, I'm <a href="https://ankityadavhere.github.io" target="_blank">Ankit!</a>
+<h1>Hello <img src="./assets/hi.gif" width="29px">, I'm <a href="https://ankityadavhere.github.io" target="_blank">Ankit!</a></h1>
 
 <a href="https://ankityadavhere.github.io">
 <img alt="GitHub Streak" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ankityadavhere&theme=material-palenight&hide_border=true" />
