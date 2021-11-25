@@ -1,4 +1,4 @@
-# Hey there hiiiii <img src="./assets/hi.gif" width="29px">, I'm [Ankit!](https://ankt.me)
+# Hey there hiiiii <img src="./assets/hi.gif" width="29px">, I'm [Ankit!]. Be happy today(https://ankt.me)
 
 <p align="center">
 <a href="https://ankt.me">
